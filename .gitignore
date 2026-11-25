@@ -1,0 +1,27 @@
+# ==== Unreal Engine 生成物（不入库）====
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# ==== IDE / Visual Studio ====
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.user
+
+# ==== 操作系统 ====
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ==== 日志与追踪 ====
+*.log
+*.trace
+
+# 注意：Config/、Content/、*.uproject 必须入库，不要忽略
